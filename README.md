@@ -1,6 +1,7 @@
 ## Projeto_Santander_ETL_Python_2023-DIO
 
 Esse projeto é uma aplicação do projeto desenvolvido pela DIO em parceria com o Santander que visa a construção de um pipeline ETL com python explorando recursos da IA generativa do GPT-3.5 turbo. O projeto possui as etapas a seguir:
+
 1️⃣ - extração de IDs de usuários de um arquivo csv;
 2️⃣ - transformação com a IA da OpenAI (GPT-3.5 - turbo);
 3️⃣ - carregamento dos dados transformados de volta a API original do 'Santander Dev Week 2023'.
